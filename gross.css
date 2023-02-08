@@ -1,0 +1,38 @@
+.bg-container{
+    background-color:rgba(21, 9, 88, 0.936);
+    height:100 vh;
+    padding-left: 100px;
+    padding-right:100px ;
+    padding-bottom: 50px;
+}
+.head{
+    color: white;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Roboto';
+    font-weight: 500px;
+    font-size: 36px;
+}
+.items{
+    background-color: white;
+    border-radius: 10px;
+    padding: 45px 45px;
+    padding-left: 30px;
+    padding-right:30px ;
+    
+}
+.label{
+    color: white;
+    font-weight: 17px;
+    font-family: 'Roboto';
+    font-size: 16px;
+
+}
+.btn{
+    margin-top:15px ;
+    color: white;
+    background-color: blue;
+    padding: 15px;
+    font-weight: 12px;
+}
